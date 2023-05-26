@@ -4,7 +4,7 @@ public class Persona {
 	    private String apellidos;
 	    private int edad;
 
-	    //Constructoor
+	    //Constructor
 	    public entradaPersona (){
 	        nombre = "";
 	        apellidos = "";
